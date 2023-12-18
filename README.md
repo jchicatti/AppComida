@@ -130,7 +130,7 @@ Los testers pudieron completar los objetivos que les asignamos en un tiempo razo
 ## Tercera Entrega: Stories
 
 Ver Projects > Cafe ITAM para ver las stories y backlog priorizado de la tercera entrega.
-
+Aquí: https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/projects/1
 ---
 
 
